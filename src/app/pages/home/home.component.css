@@ -5,9 +5,3 @@
   flex-direction: row;
   justify-content: space-around;
 }
-
-header{
-  display: flex;
-  justify-content: center;
-  margin-top: 15px;
-}
